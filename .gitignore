@@ -1,0 +1,9 @@
+firmware/src/Configuration.h
+firmware/src/AdvancedConfig.h
+firmware/src/*.json
+
+!firmware/lib
+firmware/lib/*
+!firmware/lib/README
+
+firmware/.vscode
